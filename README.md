@@ -1,7 +1,6 @@
 # **Brokerage Simulation**
 
 **NetID and names:** Ethan Hersch esh87, Jerry Chen jwc279, Aarav Khanna ak2246, Mohammad Islam mai54
-**Team Name: JAME Street** 
 
 **NOTE: This API limits only 5 calls per minute (for the free version). The system will not let you buy or sell too many stocks too soon.**
 

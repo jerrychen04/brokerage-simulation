@@ -1,0 +1,208 @@
+# Packages matching: installed
+# Name                      # Installed # Synopsis
+ANSITerminal                0.8.5       Basic control of ANSI compliant terminals and the windows shell
+angstrom                    0.15.0      Parser combinators built for speed and memory-efficiency
+asn1-combinators            0.2.6       Embed typed ASN.1 grammars in OCaml
+astring                     0.8.5       Alternative String module for OCaml
+async                       v0.15.0     Monadic concurrency library
+async_kernel                v0.15.0     Monadic concurrency library
+async_rpc_kernel            v0.15.0     Platform-independent core of Async RPC library
+async_unix                  v0.15.0     Monadic concurrency library
+base                        v0.15.1     Full standard library replacement for OCaml
+base-bigarray               base
+base-bytes                  base        Bytes library distributed with the OCaml compiler
+base-threads                base
+base-unix                   base
+base64                      3.5.1       Base64 encoding for OCaml
+base_bigstring              v0.15.0     String type based on [Bigarray], for use in I/O and C-bindings
+base_quickcheck             v0.15.0     Randomized testing framework, designed for compatibility with Base
+bigarray-compat             1.1.0       Compatibility library to use Stdlib.Bigarray when possible
+bigstringaf                 0.9.0       Bigstring intrinsics and fast blits based on memcpy/memmove
+bin_prot                    v0.15.0     A binary protocol generator
+bisect_ppx                  2.8.1       Code coverage for OCaml
+bos                         0.2.1       Basic OS interaction for OCaml
+ca-certs                    0.2.3       Detect root CA certificates from the operating system
+calendar                    3.0.0       Library for handling dates and times in your program
+camlp-streams               5.0.1       The Stream and Genlex libraries for use with Camlp4 and Camlp5
+camlzip                     1.11        Accessing compressed files in ZIP, GZIP and JAR format
+chrome-trace                3.6.1       Chrome trace event generation library
+cmdliner                    1.1.1       Declarative definition of command line interfaces for OCaml
+cohttp                      5.0.0       An OCaml library for HTTP clients and servers
+cohttp-async                5.0.0       CoHTTP implementation for the Async concurrency library
+cohttp-lwt                  5.0.0       CoHTTP implementation using the Lwt concurrency library
+cohttp-lwt-jsoo             5.0.0       CoHTTP implementation for the Js_of_ocaml JavaScript compiler
+cohttp-lwt-unix             5.0.0       CoHTTP implementation for Unix and Windows using Lwt
+cohttp-top                  5.0.0       CoHTTP toplevel pretty printers for HTTP types
+conduit                     6.2.0       A network connection establishment library
+conduit-async               6.2.0       A network connection establishment library for Async
+conduit-lwt                 6.2.0       A portable network connection establishment library using Lwt
+conduit-lwt-unix            6.2.0       A network connection establishment library for Lwt_unix
+conf-gmp                    4           Virtual package relying on a GMP lib system installation
+conf-gmp-powm-sec           3           Virtual package relying on a GMP lib with constant-time modular exponentiation
+conf-openblas               0.2.1       Virtual package to install OpenBLAS and LAPACKE
+conf-pkg-config             2           Check if pkg-config is installed and create an opam switch local pkgconfig folder
+conf-zlib                   1           Virtual package relying on zlib
+core                        v0.15.1     Industrial strength alternative to OCaml's standard library
+core_kernel                 v0.15.0     Industrial strength alternative to OCaml's standard library
+core_unix                   v0.15.2     Unix-specific portions of Core
+cppo                        1.6.9       Code preprocessor like cpp for OCaml
+csexp                       1.5.1       Parsing and printing of S-expressions in Canonical form
+cstruct                     6.1.1       Access C-like structures directly from OCaml
+ctypes                      0.20.1      Combinators for binding to C libraries without writing any C
+domain-name                 0.4.0       RFC 1035 Internet domain names
+dune                        3.6.1       Fast, portable, and opinionated build system
+dune-build-info             3.6.1       Embed build information inside executable
+dune-configurator           3.6.1       Helper library for gathering system configuration
+dune-rpc                    3.6.1       Communicate with dune using rpc
+duration                    0.2.1       Conversions to various time units
+dyn                         3.6.1       Dynamic type
+either                      1.0.0       Compatibility Either module
+eqaf                        0.9         Constant-time equal function on string
+expect_test_helpers_core    v0.15.0     Helpers for writing expectation tests
+faraday                     0.8.2       A library for writing fast and memory-efficient serializers
+faraday-lwt                 0.8.2       Lwt support for Faraday
+faraday-lwt-unix            0.8.2       Lwt_unix support for Faraday
+fiber                       3.6.1       Structured concurrency library
+fieldslib                   v0.15.0     Syntax extension to define first class values representing record fields, to get and set record fields, iterate and fold over all fields of a record and create new record values
+fix                         20220121    Algorithmic building blocks for memoization, recursion, and more
+fmt                         0.9.0       OCaml Format pretty-printer combinators
+fpath                       0.7.3       File system paths for OCaml
+gmap                        0.3.0       Heterogenous maps over a GADT
+hkdf                        1.0.4       HMAC-based Extract-and-Expand Key Derivation Function (RFC 5869)
+httpaf                      0.7.1       A high-performance, memory-efficient, and scalable web server for OCaml
+httpaf-lwt-unix             0.7.1       Lwt support for http/af
+int_repr                    v0.15.0     Integers of various widths
+integers                    0.7.0       Various signed and unsigned integer types for OCaml
+ipaddr                      5.3.1       A library for manipulation of IP (and MAC) address representations
+ipaddr-sexp                 5.3.1       A library for manipulation of IP address representations using sexp
+jane-street-headers         v0.15.0     Jane Street C header files
+js_of_ocaml                 5.0.1       Compiler from OCaml bytecode to JavaScript
+js_of_ocaml-compiler        5.0.1       Compiler from OCaml bytecode to JavaScript
+js_of_ocaml-lwt             5.0.1       Compiler from OCaml bytecode to JavaScript
+js_of_ocaml-ppx             5.0.1       Compiler from OCaml bytecode to JavaScript
+jsonm                       1.0.2       Non-blocking streaming JSON codec for OCaml
+jst-config                  v0.15.1     Compile-time configuration for Jane Street libraries
+lambda-term                 3.3.1       Terminal manipulation library for OCaml
+logs                        0.7.0       Logging infrastructure for OCaml
+lwt                         5.6.1       Promises and event-driven I/O
+lwt_ppx                     2.1.0       PPX syntax for Lwt, providing something similar to async/await from JavaScript
+lwt_react                   1.2.0       Helpers for using React with Lwt
+macaddr                     5.3.1       A library for manipulation of MAC address representations
+magic-mime                  1.3.0       Map filenames to common MIME types
+menhir                      20220210    An LR(1) parser generator
+menhirLib                   20220210    Runtime support library for parsers generated by Menhir
+menhirSdk                   20220210    Compile-time library for auxiliary tools related to Menhir
+mew                         0.1.0       Modal editing witch
+mew_vi                      0.5.0       Modal editing witch, VI interpreter
+mirage-crypto               0.11.0      Simple symmetric cryptography for the modern age
+mirage-crypto-ec            0.11.0      Elliptic Curve Cryptography with primitives taken from Fiat
+mirage-crypto-pk            0.11.0      Simple public-key cryptography for the modern age
+mirage-crypto-rng           0.11.0      A cryptographically secure PRNG
+mirage-crypto-rng-lwt       0.11.0      A cryptographically secure PRNG
+mtime                       2.0.0       Monotonic wall-clock time for OCaml
+npy                         0.0.9       Numpy npy file format reading/writing.
+num                         1.4         The legacy Num library for arbitrary-precision integer and rational arithmetic
+ocaml                       4.14.0      The OCaml compiler (virtual package)
+ocaml-base-compiler         4.14.0      Official release 4.14.0
+ocaml-compiler-libs         v0.12.4     OCaml compiler libraries repackaged
+ocaml-config                2           OCaml Switch Configuration
+ocaml-lsp-server            1.15.1-4.14 LSP Server for OCaml
+ocaml-options-vanilla       1           Ensure that OCaml is compiled with no special options enabled
+ocaml-syntax-shims          1.0.0       Backport new syntax to older OCaml versions
+ocaml-version               3.5.0       Manipulate, parse and generate OCaml compiler version strings
+ocaml_intrinsics            v0.15.2     Intrinsics
+ocamlbuild                  0.14.2      OCamlbuild is a build system with builtin rules to easily build most OCaml projects
+ocamlc-loc                  3.6.1       Parse ocaml compiler output into structured form
+ocamlfind                   1.9.5       A library manager for OCaml
+ocamlformat                 0.21.0      Auto-formatter for OCaml code
+ocamlformat-rpc             0.21.0      Auto-formatter for OCaml code (RPC mode)
+ocamlformat-rpc-lib         0.21.0      Auto-formatter for OCaml code (RPC mode)
+ocp-indent                  1.8.1       A simple tool to indent OCaml programs
+ocplib-endian               1.2         Optimised functions to read and write int16/32/64 from strings and bigarrays
+octavius                    1.2.2       Ocamldoc comment syntax parser
+odoc                        2.1.1       OCaml documentation generator
+odoc-parser                 1.0.1       Parser for ocaml documentation comments
+omd                         1.3.2       A Markdown frontend in pure OCaml
+ordering                    3.6.1       Element ordering
+ounit2                      2.2.6       OUnit testing framework
+owl                         1.1         OCaml Scientific and Engineering Computing
+owl-base                    1.1         OCaml Scientific and Engineering Computing - Base
+parsexp                     v0.15.0     S-expression parsing library
+pbkdf                       1.2.0       Password based key derivation functions (PBKDF) from PKCS#5
+pp                          1.1.2       Pretty-printing library
+ppx_assert                  v0.15.0     Assert-like extension nodes that raise useful errors on failure
+ppx_base                    v0.15.0     Base set of ppx rewriters
+ppx_bench                   v0.15.0     Syntax extension for writing in-line benchmarks in ocaml code
+ppx_bin_prot                v0.15.0     Generation of bin_prot readers and writers from types
+ppx_cold                    v0.15.0     Expands [@cold] into [@inline never][@specialise never][@local never]
+ppx_compare                 v0.15.0     Generation of comparison functions from types
+ppx_custom_printf           v0.15.0     Printf-style format-strings for user-defined string conversion
+ppx_derivers                1.2.1       Shared [@@deriving] plugin registry
+ppx_deriving                5.2.1       Type-driven code generation for OCaml
+ppx_disable_unused_warnings v0.15.0     Expands [@disable_unused_warnings] into [@warning "-20-26-32-33-34-35-36-37-38-39-60-66-67"]
+ppx_enumerate               v0.15.0     Generate a list containing all values of a finite type
+ppx_expect                  v0.15.1     Cram like framework for OCaml
+ppx_fields_conv             v0.15.0     Generation of accessor and iteration functions for ocaml records
+ppx_fixed_literal           v0.15.0     Simpler notation for fixed point literals
+ppx_hash                    v0.15.0     A ppx rewriter that generates hash functions from type expressions and definitions
+ppx_here                    v0.15.0     Expands [%here] into its location
+ppx_ignore_instrumentation  v0.15.0     Ignore Jane Street specific instrumentation extensions
+ppx_inline_test             v0.15.0     Syntax extension for writing in-line tests in ocaml code
+ppx_jane                    v0.15.0     Standard Jane Street ppx rewriters
+ppx_let                     v0.15.0     Monadic let-bindings
+ppx_log                     v0.15.0     Ppx_sexp_message-like extension nodes for lazily rendering log messages
+ppx_module_timer            v0.15.0     Ppx rewriter that records top-level module startup times
+ppx_optcomp                 v0.15.0     Optional compilation for OCaml
+ppx_optional                v0.15.0     Pattern matching on flat options
+ppx_pipebang                v0.15.0     A ppx rewriter that inlines reverse application operators `|>` and `|!`
+ppx_sexp_conv               v0.15.0     [@@deriving] plugin to generate S-expression conversion functions
+ppx_sexp_message            v0.15.0     A ppx rewriter for easy construction of s-expressions
+ppx_sexp_value              v0.15.0     A ppx rewriter that simplifies building s-expressions from ocaml values
+ppx_stable                  v0.15.0     Stable types conversions generator
+ppx_string                  v0.15.0     Ppx extension for string interpolation
+ppx_typerep_conv            v0.15.0     Generation of runtime types from type declarations
+ppx_variants_conv           v0.15.0     Generation of accessor and iteration functions for ocaml variant types
+ppx_yojson_conv_lib         v0.15.0     Runtime lib for ppx_yojson_conv
+ppxlib                      0.25.1      Standard library for ppx rewriters
+protocol_version_header     v0.15.0     Protocol versioning
+ptime                       1.1.0       POSIX time for OCaml
+qcheck                      0.20        Compatibility package for qcheck
+qcheck-core                 0.20        Core qcheck library
+qcheck-ounit                0.20        OUnit backend for qcheck
+re                          1.10.4      RE is a regular expression library for OCaml
+react                       1.2.2       Declarative events and signals for OCaml
+result                      1.5         Compatibility Result module
+rresult                     0.7.0       Result value combinators for OCaml
+seq                         base        Compatibility package for OCaml's standard iterator type starting from 4.07.
+sexp_pretty                 v0.15.1     S-expression pretty-printer
+sexplib                     v0.15.1     Library for serializing OCaml values to and from S-expressions
+sexplib0                    v0.15.1     Library containing the definition of S-expressions and some base converters
+spawn                       v0.15.1     Spawning sub-processes
+splittable_random           v0.15.0     PRNG that can be split into independent streams
+stdio                       v0.15.0     Standard IO library for OCaml
+stdlib-shims                0.3.0       Backport some of the new stdlib features to older compiler
+stdune                      3.6.1       Dune's unstable standard library
+stringext                   1.6.0       Extra string functions for OCaml
+textutils                   v0.15.0     Text output utilities
+textutils_kernel            v0.15.0     Text output utilities
+time_now                    v0.15.0     Reports the current time
+timezone                    v0.15.0     Time-zone handling
+tls                         0.17.0      Transport Layer Security purely in OCaml
+tls-lwt                     0.17.0      Transport Layer Security purely in OCaml, Lwt layer
+topkg                       1.0.6       The transitory OCaml software packager
+trie                        1.0.0       Strict impure trie tree
+typerep                     v0.15.0     Typerep is a library for runtime types
+tyxml                       4.5.0       A library for building correct HTML and SVG documents
+uchar                       0.0.2       Compatibility library for OCaml's Uchar module
+uri                         4.2.0       An RFC3986 URI/URL parsing library
+uri-sexp                    4.2.0       An RFC3986 URI/URL parsing library
+utop                        2.11.0      Universal toplevel for OCaml
+uucp                        15.0.0      Unicode character properties for OCaml
+uuseg                       15.0.0      Unicode text segmentation for OCaml
+uutf                        1.0.3       Non-blocking streaming Unicode codec for OCaml
+variantslib                 v0.15.0     Part of Jane Street's Core library
+x509                        0.16.4      Public Key Infrastructure (RFC 5280, PKCS) purely in OCaml
+xdg                         3.6.1       XDG Base Directory Specification
+yojson                      2.0.2       Yojson is an optimized parsing and printing library for the JSON format
+zarith                      1.12        Implements arithmetic and logical operations over arbitrary-precision integers
+zed                         3.2.1       Abstract engine for text edition in OCaml

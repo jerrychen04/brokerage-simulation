@@ -1,0 +1,31 @@
+---
+# Members of your group.
+group:
+  - name: Ethan Hersch
+    netid: esh87
+  - name: Mohammad Islam
+    netid: mai54
+  - name: Aarav Khanna
+    netid: ak2246
+  - name: Jerry Chen
+    netid: jwc279
+# Your PM.
+pm:
+  name: Shawn Chen
+  netid: sc2489
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "JAME Street Brokerage"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/esh87/Jame-Street.git"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a simulated brokerage where a user can deposit money into their account, access 
+  data on S&P 500 stocks and add them to their portfolio. They can buy and sell these stocks,
+  or even view options pricing. Clients can always see a history of transactions and determine
+  how much money they have made.
+
+  A standard command-line I/O user interface is supported.

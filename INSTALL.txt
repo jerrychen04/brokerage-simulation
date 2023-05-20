@@ -1,0 +1,16 @@
+Install opam dependencies (should take a few minutes and needs some space on device):
+```
+opam install ppx_deriving tls-lwt cohttp cohttp-async cohttp-lwt cohttp-lwt-unix cohttp-lwt-jsoo cohttp-top lwt_ppx yojson ounit2 ANSITerminal calendar
+```
+
+To use operate and try out the UI
+```
+dune build
+make play
+```
+
+To view stock prices based on their ticker names
+'''
+dune build
+make view_stock
+'''

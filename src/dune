@@ -1,0 +1,15 @@
+(library
+ (name brokerage)
+ (public_name Brokerage)
+ (libraries
+  cohttp-lwt-unix
+  cohttp-top
+  cohttp-lwt-jsoo
+  cohttp-async
+  cohttp-lwt
+  cohttp
+  yojson
+  tls-lwt
+  calendar)
+ (preprocess
+  (pps lwt_ppx)))
